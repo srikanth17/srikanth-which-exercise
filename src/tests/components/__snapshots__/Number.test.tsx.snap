@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Number correctly 1`] = `
+<label
+  className="number"
+  data-testid="number-label"
+>
+  <input
+    checked={false}
+    name="number"
+    onChange={[Function]}
+    type="checkbox"
+    value={10}
+  />
+  10
+</label>
+`;
